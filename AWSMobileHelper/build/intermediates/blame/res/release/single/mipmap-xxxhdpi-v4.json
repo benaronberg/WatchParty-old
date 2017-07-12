@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\AWSMobileHelper\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi-v4\\facebook_icon.png",
+        "source": "C:\\Users\\benbe\\Downloads\\MySampleApp\\AWSMobileHelper\\src\\main\\res\\mipmap-xxxhdpi\\facebook_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\AWSMobileHelper\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi-v4\\default_sign_in_logo.png",
+        "source": "C:\\Users\\benbe\\Downloads\\MySampleApp\\AWSMobileHelper\\src\\main\\res\\mipmap-xxxhdpi\\default_sign_in_logo.png"
+    }
+]

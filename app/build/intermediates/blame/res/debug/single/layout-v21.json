@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\c4460ee88028eae938889236fc0be8fdcfdb3fd1\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\c4460ee88028eae938889236fc0be8fdcfdb3fd1\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\c4460ee88028eae938889236fc0be8fdcfdb3fd1\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\c4460ee88028eae938889236fc0be8fdcfdb3fd1\\output\\res\\layout-v21\\notification_action.xml"
+    }
+]
