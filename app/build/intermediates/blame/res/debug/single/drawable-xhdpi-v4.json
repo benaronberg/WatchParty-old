@@ -44,12 +44,12 @@
         "source": "C:\\Users\\benbe\\.android\\build-cache\\94f3c810ee3f48166339b7efa3cca58378b17b5c\\output\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_bottomnub.png"
     },
     {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\com_facebook_tooltip_black_background.9.png",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\94f3c810ee3f48166339b7efa3cca58378b17b5c\\output\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_black_background.9.png"
-    },
-    {
         "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\com_facebook_button_like_icon_selected.png",
         "source": "C:\\Users\\benbe\\.android\\build-cache\\94f3c810ee3f48166339b7efa3cca58378b17b5c\\output\\res\\drawable-xhdpi-v4\\com_facebook_button_like_icon_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\com_facebook_tooltip_black_background.9.png",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\94f3c810ee3f48166339b7efa3cca58378b17b5c\\output\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_black_background.9.png"
     },
     {
         "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",

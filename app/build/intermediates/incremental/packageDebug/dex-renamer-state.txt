@@ -1,4 +1,4 @@
-#Wed Jul 12 18:56:37 EDT 2017
+#Thu Jul 27 20:01:09 EDT 2017
 file.9=C\:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\aws-android-sdk-ddb-mapper-2.4.2_7db7832e5bef62a4098ad539d770f96e87a3cd8f\\classes.dex
 base.10=C\:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_76eb2c2a3dccc8b6bf84db69883981653b05b574
 file.8=C\:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_fc200fb8517307d63051aa9b9727e3bd23f2c6c6\\classes.dex

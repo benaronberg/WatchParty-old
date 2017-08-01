@@ -254,5 +254,9 @@
     {
         "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
         "source": "C:\\Users\\benbe\\.android\\build-cache\\c4460ee88028eae938889236fc0be8fdcfdb3fd1\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hub_tabs.xml",
+        "source": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\src\\main\\res\\layout\\hub_tabs.xml"
     }
 ]

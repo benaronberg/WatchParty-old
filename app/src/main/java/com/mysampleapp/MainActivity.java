@@ -1,5 +1,6 @@
 package com.mysampleapp;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -19,8 +20,6 @@ import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
 
-    private TextView mFriendsList;
-
     private FeatureCoverFlow mFriendsCoverFlow;
     private FeatureCoverFlow mMyCoverFlow;
     private FeatureCoverFlow mFavoritesCoverFlow;
@@ -33,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
     private TextSwitcher mFriendsTitle;
     private TextSwitcher mMyTitle;
     private TextSwitcher mFavoritesTitle;
+    private TextView mFriendsList;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -40,7 +40,8 @@ public class MainActivity extends AppCompatActivity {
         this.requestWindowFeature(Window.FEATURE_NO_TITLE);
         setContentView(R.layout.activity_main);
 
-        TabHost host = (TabHost)findViewById(R.id.tabHost);
+        TabHost host = (TabHost)findViewById(R.id.showTabs);
+        TabHost tabHubHost = (TabHost)findViewById(R.id.hubTabs);
         host.setup();
 
         // I Watch Tab
@@ -193,14 +194,21 @@ public class MainActivity extends AppCompatActivity {
                 //TODO CoverFlow began scrolling
             }
         });
+/**
+        //Friends Tab
+        Intent tabHubIntent = new Intent(this, HubTabs.class);
+        spec = tabHubHost.newTabSpec("Friends Tab");
+        spec.setIndicator("Friends");
+        spec.setContent(tabHubIntent);
+        host.addTab(spec);
 
-        // Populate Friends List
+        // Populate friends list
         mFriendsList = (TextView) findViewById(R.id.friends_list);
         String[] friendsList = Friends.getFriendsList();
         for (String friend : friendsList) {
-            mFriendsList.append(friend + "\n\n\n");
+            mFriendsList.append(friend + "\n\n");
         }
-
+*/
 
     }
 
