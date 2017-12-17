@@ -1,242 +1,306 @@
 [
     {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\c4460ee88028eae938889236fc0be8fdcfdb3fd1\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cover_selector.xml",
-        "source": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\src\\main\\res\\drawable\\cover_selector.xml"
-    },
-    {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shameless.jpg",
-        "source": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\src\\main\\res\\drawable\\shameless.jpg"
-    },
-    {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\c4460ee88028eae938889236fc0be8fdcfdb3fd1\\output\\res\\drawable\\abc_seekbar_track_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\c4460ee88028eae938889236fc0be8fdcfdb3fd1\\output\\res\\drawable\\abc_ic_clear_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\c4460ee88028eae938889236fc0be8fdcfdb3fd1\\output\\res\\drawable\\notification_bg.xml"
-    },
-    {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\c4460ee88028eae938889236fc0be8fdcfdb3fd1\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\saul.jpg",
-        "source": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\src\\main\\res\\drawable\\saul.jpg"
-    },
-    {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\c4460ee88028eae938889236fc0be8fdcfdb3fd1\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_icon.xml",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\94f3c810ee3f48166339b7efa3cca58378b17b5c\\output\\res\\drawable\\com_facebook_button_icon.xml"
-    },
-    {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\94f3c810ee3f48166339b7efa3cca58378b17b5c\\output\\res\\drawable\\com_facebook_button_background.xml"
-    },
-    {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\c4460ee88028eae938889236fc0be8fdcfdb3fd1\\output\\res\\drawable\\abc_tab_indicator_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\c4460ee88028eae938889236fc0be8fdcfdb3fd1\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_send_button_icon.xml",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\94f3c810ee3f48166339b7efa3cca58378b17b5c\\output\\res\\drawable\\com_facebook_send_button_icon.xml"
-    },
-    {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_cancel_background.xml",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\94f3c810ee3f48166339b7efa3cca58378b17b5c\\output\\res\\drawable\\com_facebook_auth_dialog_cancel_background.xml"
-    },
-    {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_favicon_blue.xml",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\94f3c810ee3f48166339b7efa3cca58378b17b5c\\output\\res\\drawable\\com_facebook_favicon_blue.xml"
-    },
-    {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\c4460ee88028eae938889236fc0be8fdcfdb3fd1\\output\\res\\drawable\\abc_cab_background_top_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\c4460ee88028eae938889236fc0be8fdcfdb3fd1\\output\\res\\drawable\\abc_textfield_search_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_background.xml",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\94f3c810ee3f48166339b7efa3cca58378b17b5c\\output\\res\\drawable\\com_facebook_auth_dialog_background.xml"
-    },
-    {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\c4460ee88028eae938889236fc0be8fdcfdb3fd1\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\c4460ee88028eae938889236fc0be8fdcfdb3fd1\\output\\res\\drawable\\abc_btn_radio_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rick_n_morty.jpg",
-        "source": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\src\\main\\res\\drawable\\rick_n_morty.jpg"
-    },
-    {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\c4460ee88028eae938889236fc0be8fdcfdb3fd1\\output\\res\\drawable\\abc_ratingbar_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\c4460ee88028eae938889236fc0be8fdcfdb3fd1\\output\\res\\drawable\\abc_vector_test.xml"
-    },
-    {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\94f3c810ee3f48166339b7efa3cca58378b17b5c\\output\\res\\drawable\\com_facebook_button_send_background.xml"
-    },
-    {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\c4460ee88028eae938889236fc0be8fdcfdb3fd1\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\94f3c810ee3f48166339b7efa3cca58378b17b5c\\output\\res\\drawable\\com_facebook_button_login_silver_background.xml"
-    },
-    {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_background.xml",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\94f3c810ee3f48166339b7efa3cca58378b17b5c\\output\\res\\drawable\\com_facebook_button_login_background.xml"
-    },
-    {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\c4460ee88028eae938889236fc0be8fdcfdb3fd1\\output\\res\\drawable\\abc_btn_colored_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\c4460ee88028eae938889236fc0be8fdcfdb3fd1\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\c4460ee88028eae938889236fc0be8fdcfdb3fd1\\output\\res\\drawable\\notification_bg_low.xml"
-    },
-    {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\94f3c810ee3f48166339b7efa3cca58378b17b5c\\output\\res\\drawable\\messenger_button_blue_bg_selector.xml"
-    },
-    {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\c4460ee88028eae938889236fc0be8fdcfdb3fd1\\output\\res\\drawable\\abc_ic_search_api_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\c4460ee88028eae938889236fc0be8fdcfdb3fd1\\output\\res\\drawable\\abc_item_background_holo_light.xml"
-    },
-    {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\94f3c810ee3f48166339b7efa3cca58378b17b5c\\output\\res\\drawable\\messenger_button_white_bg_round.xml"
-    },
-    {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\game_of_thrones.jpg",
-        "source": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\src\\main\\res\\drawable\\game_of_thrones.jpg"
-    },
-    {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\c4460ee88028eae938889236fc0be8fdcfdb3fd1\\output\\res\\drawable\\abc_switch_thumb_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\94f3c810ee3f48166339b7efa3cca58378b17b5c\\output\\res\\drawable\\messenger_button_white_bg_selector.xml"
-    },
-    {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\c4460ee88028eae938889236fc0be8fdcfdb3fd1\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\c4460ee88028eae938889236fc0be8fdcfdb3fd1\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\94f3c810ee3f48166339b7efa3cca58378b17b5c\\output\\res\\drawable\\messenger_button_blue_bg_round.xml"
-    },
-    {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\c4460ee88028eae938889236fc0be8fdcfdb3fd1\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
-    },
-    {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\c4460ee88028eae938889236fc0be8fdcfdb3fd1\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\c4460ee88028eae938889236fc0be8fdcfdb3fd1\\output\\res\\drawable\\abc_btn_borderless_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\c4460ee88028eae938889236fc0be8fdcfdb3fd1\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\c4460ee88028eae938889236fc0be8fdcfdb3fd1\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
-    },
-    {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\c4460ee88028eae938889236fc0be8fdcfdb3fd1\\output\\res\\drawable\\notification_icon_background.xml"
-    },
-    {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\c4460ee88028eae938889236fc0be8fdcfdb3fd1\\output\\res\\drawable\\abc_text_cursor_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_header_background.xml",
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_header_background.xml",
         "source": "C:\\Users\\benbe\\.android\\build-cache\\94f3c810ee3f48166339b7efa3cca58378b17b5c\\output\\res\\drawable\\com_facebook_auth_dialog_header_background.xml"
     },
     {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\c4460ee88028eae938889236fc0be8fdcfdb3fd1\\output\\res\\drawable\\abc_btn_check_material.xml"
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cover_selector.xml",
+        "source": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\src\\main\\res\\drawable\\cover_selector.xml"
     },
     {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\c4460ee88028eae938889236fc0be8fdcfdb3fd1\\output\\res\\drawable\\abc_edit_text_material.xml"
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\8ce020a8e1bde8880d1a73495fd14c6ba3133051\\output\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\label_background.xml",
-        "source": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\src\\main\\res\\drawable\\label_background.xml"
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\8ce020a8e1bde8880d1a73495fd14c6ba3133051\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\c4460ee88028eae938889236fc0be8fdcfdb3fd1\\output\\res\\drawable\\abc_dialog_material_background.xml"
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\8ce020a8e1bde8880d1a73495fd14c6ba3133051\\output\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\c4460ee88028eae938889236fc0be8fdcfdb3fd1\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\8ce020a8e1bde8880d1a73495fd14c6ba3133051\\output\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\c4460ee88028eae938889236fc0be8fdcfdb3fd1\\output\\res\\drawable\\notification_tile_bg.xml"
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\8ce020a8e1bde8880d1a73495fd14c6ba3133051\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\c4460ee88028eae938889236fc0be8fdcfdb3fd1\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\8ce020a8e1bde8880d1a73495fd14c6ba3133051\\output\\res\\drawable\\notification_bg.xml"
     },
     {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\8ce020a8e1bde8880d1a73495fd14c6ba3133051\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\profile_icon.PNG",
+        "source": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\src\\main\\res\\drawable\\profile_icon.PNG"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\8ce020a8e1bde8880d1a73495fd14c6ba3133051\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_unselected_friends_watch.png",
+        "source": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\src\\main\\res\\drawable\\ic_tab_unselected_friends_watch.png"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_background.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\94f3c810ee3f48166339b7efa3cca58378b17b5c\\output\\res\\drawable\\com_facebook_button_login_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\8ce020a8e1bde8880d1a73495fd14c6ba3133051\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_unselected_recieved.png",
+        "source": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\src\\main\\res\\drawable\\ic_tab_unselected_recieved.png"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\8ce020a8e1bde8880d1a73495fd14c6ba3133051\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\8ce020a8e1bde8880d1a73495fd14c6ba3133051\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\8ce020a8e1bde8880d1a73495fd14c6ba3133051\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\94f3c810ee3f48166339b7efa3cca58378b17b5c\\output\\res\\drawable\\messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\friends_icon.PNG",
+        "source": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\src\\main\\res\\drawable\\friends_icon.PNG"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\8ce020a8e1bde8880d1a73495fd14c6ba3133051\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\8ce020a8e1bde8880d1a73495fd14c6ba3133051\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_selected_friends_watch.png",
+        "source": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\src\\main\\res\\drawable\\ic_tab_selected_friends_watch.png"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\94f3c810ee3f48166339b7efa3cca58378b17b5c\\output\\res\\drawable\\com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\8ce020a8e1bde8880d1a73495fd14c6ba3133051\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\8ce020a8e1bde8880d1a73495fd14c6ba3133051\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_logo.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\94f3c810ee3f48166339b7efa3cca58378b17b5c\\output\\res\\drawable\\com_facebook_button_login_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_selector_recieved.xml",
+        "source": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\src\\main\\res\\drawable\\tab_selector_recieved.xml"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\94f3c810ee3f48166339b7efa3cca58378b17b5c\\output\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\8ce020a8e1bde8880d1a73495fd14c6ba3133051\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\8ce020a8e1bde8880d1a73495fd14c6ba3133051\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\8ce020a8e1bde8880d1a73495fd14c6ba3133051\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_selector_friends_watch.xml",
+        "source": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\src\\main\\res\\drawable\\tab_selector_friends_watch.xml"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wp_logo.png",
+        "source": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\src\\main\\res\\drawable\\wp_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_signout.png",
+        "source": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\src\\main\\res\\drawable\\icon_signout.png"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\saul.jpg",
+        "source": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\src\\main\\res\\drawable\\saul.jpg"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\8ce020a8e1bde8880d1a73495fd14c6ba3133051\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_background.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\94f3c810ee3f48166339b7efa3cca58378b17b5c\\output\\res\\drawable\\com_facebook_auth_dialog_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\8ce020a8e1bde8880d1a73495fd14c6ba3133051\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_icon.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\94f3c810ee3f48166339b7efa3cca58378b17b5c\\output\\res\\drawable\\com_facebook_button_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\8ce020a8e1bde8880d1a73495fd14c6ba3133051\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_selected_i_watch.png",
+        "source": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\src\\main\\res\\drawable\\ic_tab_selected_i_watch.png"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_favicon_blue.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\94f3c810ee3f48166339b7efa3cca58378b17b5c\\output\\res\\drawable\\com_facebook_favicon_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
         "source": "C:\\Users\\benbe\\.android\\build-cache\\94f3c810ee3f48166339b7efa3cca58378b17b5c\\output\\res\\drawable\\com_facebook_button_like_background.xml"
     },
     {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\c4460ee88028eae938889236fc0be8fdcfdb3fd1\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\8ce020a8e1bde8880d1a73495fd14c6ba3133051\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\c4460ee88028eae938889236fc0be8fdcfdb3fd1\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_selector_i_watch.xml",
+        "source": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\src\\main\\res\\drawable\\tab_selector_i_watch.xml"
     },
     {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_logo.xml",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\94f3c810ee3f48166339b7efa3cca58378b17b5c\\output\\res\\drawable\\com_facebook_button_login_logo.xml"
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\8ce020a8e1bde8880d1a73495fd14c6ba3133051\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\8ce020a8e1bde8880d1a73495fd14c6ba3133051\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\8ce020a8e1bde8880d1a73495fd14c6ba3133051\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\94f3c810ee3f48166339b7efa3cca58378b17b5c\\output\\res\\drawable\\messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\94f3c810ee3f48166339b7efa3cca58378b17b5c\\output\\res\\drawable\\messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_unselected_i_watch.png",
+        "source": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\src\\main\\res\\drawable\\ic_tab_unselected_i_watch.png"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\8ce020a8e1bde8880d1a73495fd14c6ba3133051\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\8ce020a8e1bde8880d1a73495fd14c6ba3133051\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\game_of_thrones.jpg",
+        "source": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\src\\main\\res\\drawable\\game_of_thrones.jpg"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\8ce020a8e1bde8880d1a73495fd14c6ba3133051\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\8ce020a8e1bde8880d1a73495fd14c6ba3133051\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\label_background.xml",
+        "source": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\src\\main\\res\\drawable\\label_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\8ce020a8e1bde8880d1a73495fd14c6ba3133051\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\8ce020a8e1bde8880d1a73495fd14c6ba3133051\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rick_n_morty.jpg",
+        "source": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\src\\main\\res\\drawable\\rick_n_morty.jpg"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\94f3c810ee3f48166339b7efa3cca58378b17b5c\\output\\res\\drawable\\com_facebook_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\8ce020a8e1bde8880d1a73495fd14c6ba3133051\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\8ce020a8e1bde8880d1a73495fd14c6ba3133051\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\profile_pic_empty_icon.png",
+        "source": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\src\\main\\res\\drawable\\profile_pic_empty_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_icon.PNG",
+        "source": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\src\\main\\res\\drawable\\chat_icon.PNG"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\8ce020a8e1bde8880d1a73495fd14c6ba3133051\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_selected_recieved.png",
+        "source": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\src\\main\\res\\drawable\\ic_tab_selected_recieved.png"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_send_button_icon.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\94f3c810ee3f48166339b7efa3cca58378b17b5c\\output\\res\\drawable\\com_facebook_send_button_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calendar_icon.PNG",
+        "source": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\src\\main\\res\\drawable\\calendar_icon.PNG"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shameless.jpg",
+        "source": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\src\\main\\res\\drawable\\shameless.jpg"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\94f3c810ee3f48166339b7efa3cca58378b17b5c\\output\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\8ce020a8e1bde8880d1a73495fd14c6ba3133051\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\8ce020a8e1bde8880d1a73495fd14c6ba3133051\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\8ce020a8e1bde8880d1a73495fd14c6ba3133051\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_cancel_background.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\94f3c810ee3f48166339b7efa3cca58378b17b5c\\output\\res\\drawable\\com_facebook_auth_dialog_cancel_background.xml"
     }
 ]

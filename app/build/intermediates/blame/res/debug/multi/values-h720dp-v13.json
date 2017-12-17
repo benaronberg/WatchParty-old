@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
+        "outputFile": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 117
                 },
                 "from": {
-                    "file": "C:\\Users\\benbe\\.android\\build-cache\\c4460ee88028eae938889236fc0be8fdcfdb3fd1\\output\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "file": "C:\\Users\\benbe\\.android\\build-cache\\8ce020a8e1bde8880d1a73495fd14c6ba3133051\\output\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

@@ -1,10 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\c4460ee88028eae938889236fc0be8fdcfdb3fd1\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\8ce020a8e1bde8880d1a73495fd14c6ba3133051\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
-        "source": "C:\\Users\\benbe\\.android\\build-cache\\c4460ee88028eae938889236fc0be8fdcfdb3fd1\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\benbe\\.android\\build-cache\\8ce020a8e1bde8880d1a73495fd14c6ba3133051\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
     }
 ]

@@ -7,7 +7,7 @@
   <string name="Saul">Better Call Saul</string>
   <string name="RickNmort">Rick and Morty</string>
 
-  <string name="app_name">My Sample App</string>
+  <string name="app_name">WatchParty</string>
   <!-- Suffix after '-' must be the app package name as specified in the build.gradle file. This
        is used by the com.amazonaws.mobile.downloader.query.DownloadQueueProvider class. -->
   <string name="download_queue_provider_authority">com.amazonaws.mobile.downloader-com.amazon.mysampleapp</string>

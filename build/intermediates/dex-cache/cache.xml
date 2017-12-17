@@ -12,39 +12,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\benbe\.android\build-cache\c4460ee88028eae938889236fc0be8fdcfdb3fd1\output\jars\classes.jar"
+        jar="C:\Users\benbe\.android\build-cache\80caa4bce91c54688cec31a1cd428a22a6e80bfd\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
-        <dex dex="C:\Users\benbe\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b8e0a391b2088314357355897b944b98437c4b55\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\benbe\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-core\2.4.2\3c144566ee18c4c725b4e5aef1793bfec4f9d022\aws-android-sdk-core-2.4.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3c144566ee18c4c725b4e5aef1793bfec4f9d022">
-        <dex dex="C:\Users\benbe\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-core-2.4.2_215093e98a6b4ce770975ec5de456b6b9567a0fa\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\benbe\.android\build-cache\0c5b46557c6188de6ff69620e7a3661fbc017f04\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="42dd7a8aa383b6967e640be8149e11b8ada22944">
-        <dex dex="C:\Users\benbe\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fc200fb8517307d63051aa9b9727e3bd23f2c6c6\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\benbe\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-core\2.4.2\3c144566ee18c4c725b4e5aef1793bfec4f9d022\aws-android-sdk-core-2.4.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="3c144566ee18c4c725b4e5aef1793bfec4f9d022">
-        <dex dex="C:\Users\benbe\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-core-2.4.2_215093e98a6b4ce770975ec5de456b6b9567a0fa\classes.dex" />
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\benbe\WatchParty\WatchParty\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6de20db6c1a2ea729369106bd1d8d0847856775f\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -57,57 +30,48 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\benbe\.android\build-cache\ff1c1a7af0d977b8b9aa8a05d5bf457622bc7bad\output\jars\classes.jar"
+        jar="C:\Users\benbe\.android\build-cache\28d2f9dc25943fb76258b7aa931bbd22ac1de7f9\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="98684c2dd540ae9d80457028a4fce156e8f9b7d3">
-        <dex dex="C:\Users\benbe\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ae38dfd3f7ecd445f05fa5594cf71fe5c4127aca\classes.dex" />
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\benbe\WatchParty\WatchParty\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ffb8c51b8d093b89b857880c50a3fd3d04441931\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\benbe\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-s3\2.4.2\48c90942f154c2b84341a90ea07383314881e0ad\aws-android-sdk-s3-2.4.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="48c90942f154c2b84341a90ea07383314881e0ad">
-        <dex dex="C:\Users\benbe\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-s3-2.4.2_eeb756b04c16a04d6baa4383c7009d47372fc995\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\benbe\.android\build-cache\c87047416ef1c781e160675728655766653e6602\output\jars\classes.jar"
+        jar="C:\Users\benbe\.android\build-cache\bc8fd3a90f6d3cf543d8fa463e3d6c15dfafe521\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
-        <dex dex="C:\Users\benbe\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a7412be05c5ecf83b1b1d4c84f05bd187a25496d\classes.dex" />
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\benbe\WatchParty\WatchParty\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dcaebf0b78d8523525063e26d542cdcb71bfb739\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\benbe\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-ddb-mapper\2.4.2\4d313b77b144c5e57b7da55ffaf5857d73b93bc0\aws-android-sdk-ddb-mapper-2.4.2.jar"
+        jar="C:\Users\benbe\.android\build-cache\fa2659f35198f66e31903b8048043574165eb33e\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="25.0.0"
-        sha1="4d313b77b144c5e57b7da55ffaf5857d73b93bc0">
-        <dex dex="C:\Users\benbe\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-ddb-mapper-2.4.2_7db7832e5bef62a4098ad539d770f96e87a3cd8f\classes.dex" />
+        revision="25.0.2"
+        sha1="807751a24cf96566fd8675517c94d8463cf364db">
+        <dex dex="C:\Users\benbe\WatchParty\WatchParty\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bb0707834da1b91d95e62e27877019620efabe60\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\benbe\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-ddb-mapper\2.4.2\4d313b77b144c5e57b7da55ffaf5857d73b93bc0\aws-android-sdk-ddb-mapper-2.4.2.jar"
-        jumboMode="true"
+        jar="C:\Users\benbe\.gradle\caches\modules-2\files-2.1\com.pusher\pusher-java-client\1.5.0\eecf30fd008bd0df402737fcbd052722178769a\pusher-java-client-1.5.0.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="4d313b77b144c5e57b7da55ffaf5857d73b93bc0">
-        <dex dex="C:\Users\benbe\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-ddb-mapper-2.4.2_7db7832e5bef62a4098ad539d770f96e87a3cd8f\classes.dex" />
+        sha1="0eecf30fd008bd0df402737fcbd052722178769a">
+        <dex dex="C:\Users\benbe\WatchParty\WatchParty\app\build\intermediates\transforms\dex\debug\folders\1000\10\pusher-java-client-1.5.0_52efa79e04f24300a6cfe8248f0159c61e1f387c\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\benbe\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-cognitoidentityprovider\2.4.2\c29a56e6dcf8e33d2e81af86082be7ba0b200223\aws-android-sdk-cognitoidentityprovider-2.4.2.jar"
-        jumboMode="true"
+        jar="C:\Users\benbe\.android\build-cache\7e3a3f035155a420239504b4a06daf1a05c7f7b6\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="c29a56e6dcf8e33d2e81af86082be7ba0b200223">
-        <dex dex="C:\Users\benbe\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-cognitoidentityprovider-2.4.2_39f412b9b8f2a09b2ab6a672a0f9f5c02bea0449\classes.dex" />
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\benbe\WatchParty\WatchParty\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4916c1a8e0dbf484b0be8cb9e7ef04345eedd6f4\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -129,12 +93,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\benbe\.android\build-cache\e8ec9f69e5f7bcaf83de41ce6b06d9e55f0728cb\output\jars\classes.jar"
+        jar="C:\Users\benbe\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-api\1.7.5\6b262da268f8ad9eff941b25503a9198f0a0ac93\slf4j-api-1.7.5.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
-        <dex dex="C:\Users\benbe\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_067786c399bd39ddd4e08499be3013957a324046\classes.dex" />
+        sha1="6b262da268f8ad9eff941b25503a9198f0a0ac93">
+        <dex dex="C:\Users\benbe\WatchParty\WatchParty\app\build\intermediates\transforms\dex\debug\folders\1000\10\slf4j-api-1.7.5_502475c7510b0ede278319410e79d038ae16cf53\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -156,33 +120,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\benbe\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="C:\Users\benbe\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_47b15b56c832b7c406f9973ee30b3a0336a3f652\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\benbe\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-cognito\2.4.2\487ff1ba87c27032fe6f80ce09c9a2a3dc5e3884\aws-android-sdk-cognito-2.4.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="487ff1ba87c27032fe6f80ce09c9a2a3dc5e3884">
-        <dex dex="C:\Users\benbe\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-cognito-2.4.2_631485154191662d51472273cd07907f89e4983e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\benbe\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-cognitoidentityprovider\2.4.2\c29a56e6dcf8e33d2e81af86082be7ba0b200223\aws-android-sdk-cognitoidentityprovider-2.4.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c29a56e6dcf8e33d2e81af86082be7ba0b200223">
-        <dex dex="C:\Users\benbe\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-cognitoidentityprovider-2.4.2_39f412b9b8f2a09b2ab6a672a0f9f5c02bea0449\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\benbe\.android\build-cache\4faf8538a66335306a31cdb104bcf6e0254f681c\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -201,21 +138,30 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\benbe\.android\build-cache\87557152d9113baea305da4412ca2c891cee309f\output\jars\classes.jar"
+        jar="C:\Users\benbe\.android\build-cache\1d15bde0288f22994e5a6b7cffeeb05680987fcf\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
-        <dex dex="C:\Users\benbe\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_29c17c393097d5e0a781093d51764bbbe8d86efe\classes.dex" />
+        sha1="ac698369f95be30b147d37d882a0ba1390eedae5">
+        <dex dex="C:\Users\benbe\WatchParty\WatchParty\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_095e31ff42206735fef1a5ea2352b4d0fe4d139f\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\benbe\.android\build-cache\ed0bfe535a5a0445623a2b4780deb9b97d6d7dfa\output\jars\classes.jar"
+        jar="C:\Users\benbe\.android\build-cache\c776112d47a9f0c5d0806784a5c38e67e39c3028\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
-        <dex dex="C:\Users\benbe\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_55198b49efe58c9cfbdc3225c0e556c2ca30bd21\classes.dex" />
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\benbe\WatchParty\WatchParty\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b74f993ab5841dc9ecfd39e8476149e5aeccc0e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\benbe\.android\build-cache\417386f3efa0b65f88260ab99cdd28e66c544442\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\benbe\WatchParty\WatchParty\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_92cfb223888bcce03e76c319aa3f7ff82e56bded\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -228,30 +174,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\benbe\.android\build-cache\8701d0e70c53ade51a9c3b632cb0554a08484d11\output\jars\classes.jar"
+        jar="C:\Users\benbe\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="C:\Users\benbe\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d1bbb19bacf65b77764729dedee6d5ac83adfcca\classes.dex" />
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\benbe\WatchParty\WatchParty\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_354eaf50330d85dc1c867c92be99ee073c1838c8\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\benbe\.android\build-cache\0c5b46557c6188de6ff69620e7a3661fbc017f04\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="42dd7a8aa383b6967e640be8149e11b8ada22944">
-        <dex dex="C:\Users\benbe\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fc200fb8517307d63051aa9b9727e3bd23f2c6c6\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\benbe\.android\build-cache\eff8bfe36c2256a58cfd481b4cab00eaeaf13fee\output\jars\classes.jar"
+        jar="C:\Users\benbe\.android\build-cache\82618fd25d16610d7a256eecfca4352701cf4a08\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
-        <dex dex="C:\Users\benbe\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0e83947112df48ba7caf2c8b94321e71040f1296\classes.dex" />
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\benbe\WatchParty\WatchParty\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_09543cc6637cc6212c9c0111d868e05fa8062552\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -264,156 +201,129 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\benbe\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-kms\2.4.2\939fbde1af746ca406688dbf5f11e35bdc431243\aws-android-sdk-kms-2.4.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="939fbde1af746ca406688dbf5f11e35bdc431243">
-        <dex dex="C:\Users\benbe\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-kms-2.4.2_10c93ce84f8da691261abd266eb8ebdb96e99a28\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\benbe\Downloads\MySampleApp\AWSMobileHelper\build\intermediates\bundles\default\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4fc9934e7cb9a928adb28ac9745e0dae03ed464b">
-        <dex dex="C:\Users\benbe\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\4\classes_2483dba9f8af122e9bf3be32e3787861e7bd5468\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\benbe\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-s3\2.4.2\48c90942f154c2b84341a90ea07383314881e0ad\aws-android-sdk-s3-2.4.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="48c90942f154c2b84341a90ea07383314881e0ad">
-        <dex dex="C:\Users\benbe\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-s3-2.4.2_eeb756b04c16a04d6baa4383c7009d47372fc995\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\benbe\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
-        <dex dex="C:\Users\benbe\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_429ba69d552b2a00795635b6722f2e384cf3bc18\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\benbe\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
-        <dex dex="C:\Users\benbe\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.4.0_b64d668f188a56316abb8ade260ea76b9b478f74\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\benbe\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-s3\2.4.2\48c90942f154c2b84341a90ea07383314881e0ad\aws-android-sdk-s3-2.4.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="48c90942f154c2b84341a90ea07383314881e0ad">
-        <dex dex="C:\Users\benbe\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-s3-2.4.2_eeb756b04c16a04d6baa4383c7009d47372fc995\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\benbe\.android\build-cache\56429f08390b762ba2d03f9aaad4d20699324d24\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
-        <dex dex="C:\Users\benbe\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2016cfdf64e362b9ea92761b32c3ab19c57318c5\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\benbe\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-ddb\2.4.2\34b5bf11f900c9e9915d77b0db9ddde760cb3faa\aws-android-sdk-ddb-2.4.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="34b5bf11f900c9e9915d77b0db9ddde760cb3faa">
-        <dex dex="C:\Users\benbe\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-ddb-2.4.2_1ff46bd5a890d95f3999bd21264daa32fa5a3955\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\benbe\Downloads\MySampleApp\AWSMobileHelper\build\intermediates\bundles\default\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="4fc9934e7cb9a928adb28ac9745e0dae03ed464b">
-        <dex dex="C:\Users\benbe\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\4\classes_2483dba9f8af122e9bf3be32e3787861e7bd5468\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\benbe\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
-        <dex dex="C:\Users\benbe\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_429ba69d552b2a00795635b6722f2e384cf3bc18\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\benbe\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-cognito\2.4.2\487ff1ba87c27032fe6f80ce09c9a2a3dc5e3884\aws-android-sdk-cognito-2.4.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="487ff1ba87c27032fe6f80ce09c9a2a3dc5e3884">
-        <dex dex="C:\Users\benbe\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-cognito-2.4.2_631485154191662d51472273cd07907f89e4983e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\benbe\.android\build-cache\8701d0e70c53ade51a9c3b632cb0554a08484d11\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="C:\Users\benbe\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d1bbb19bacf65b77764729dedee6d5ac83adfcca\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\benbe\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-ddb-mapper\2.4.2\4d313b77b144c5e57b7da55ffaf5857d73b93bc0\aws-android-sdk-ddb-mapper-2.4.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4d313b77b144c5e57b7da55ffaf5857d73b93bc0">
-        <dex dex="C:\Users\benbe\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-ddb-mapper-2.4.2_7db7832e5bef62a4098ad539d770f96e87a3cd8f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\benbe\.android\build-cache\c2aa83f256046a8c8170fb395f623edc5ca6c739\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
-        <dex dex="C:\Users\benbe\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ca4ff8a4842289177e6ee297aa79ebc2c18578d9\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\benbe\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="C:\Users\benbe\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_47b15b56c832b7c406f9973ee30b3a0336a3f652\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\benbe\.android\build-cache\efad71a62e830a010ee48dabe02ca26e78365663\output\jars\classes.jar"
+        jar="C:\Users\benbe\.android\build-cache\3b620d64b5775657f522c21abf6fa3a306a21384\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\benbe\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_76eb2c2a3dccc8b6bf84db69883981653b05b574\classes.dex" />
+        <dex dex="C:\Users\benbe\WatchParty\WatchParty\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_782025fe8f806b69ce9d353f53e9ba40659d5ad8\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\benbe\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-ddb\2.4.2\34b5bf11f900c9e9915d77b0db9ddde760cb3faa\aws-android-sdk-ddb-2.4.2.jar"
+        jar="C:\Users\benbe\.android\build-cache\d403beb101e59f4020f319b2de3ce653628eb793\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="C:\Users\benbe\WatchParty\WatchParty\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d85d1b2a2d0195e4eaf41cf7a1cd8add1b4bb22d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\benbe\.android\build-cache\711f78d24d55408a5fbd9335a28c4edd0ff7fca6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f6137d8cf617282e070c8012b7f4ae5a5f8021a">
+        <dex dex="C:\Users\benbe\WatchParty\WatchParty\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d4486bdc27143dc427571fd299c9bd3c9a9febd7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\benbe\.gradle\caches\modules-2\files-2.1\com.pusher\java-websocket\1.4.1\6021a3f6aac1feb586bc7898685e9a72bd1986d3\java-websocket-1.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6021a3f6aac1feb586bc7898685e9a72bd1986d3">
+        <dex dex="C:\Users\benbe\WatchParty\WatchParty\app\build\intermediates\transforms\dex\debug\folders\1000\10\java-websocket-1.4.1_f22989d9cd8643f5c79f81eb75a7c1e5caf64d49\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\benbe\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-cognitoidentityprovider\2.6.11\6137e2d2e9948cb7a3ecda6d15956cd19b34b5f9\aws-android-sdk-cognitoidentityprovider-2.6.11.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6137e2d2e9948cb7a3ecda6d15956cd19b34b5f9">
+        <dex dex="C:\Users\benbe\WatchParty\WatchParty\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-cognitoidentityprovider-2.6.11_ec066113896ce70c508a5d2be3cf53f274d3bdda\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\benbe\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.9\386a4339ffe52d5d63e80f9bed8d2b1d1a418249\android-async-http-1.4.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="C:\Users\benbe\WatchParty\WatchParty\app\build\intermediates\transforms\dex\debug\folders\1000\10\android-async-http-1.4.9_d3141a5e30bb7ca43c5d7aae0f26192904f5b97f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\benbe\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-core\2.6.11\7001609aa40c973c99d12996c1f851e194c0998e\aws-android-sdk-core-2.6.11.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7001609aa40c973c99d12996c1f851e194c0998e">
+        <dex dex="C:\Users\benbe\WatchParty\WatchParty\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-core-2.6.11_6a5ca98feef26d2a7ebc02ba17c0f8de2e683379\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\benbe\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\benbe\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_429ba69d552b2a00795635b6722f2e384cf3bc18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\benbe\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\benbe\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.4.0_b64d668f188a56316abb8ade260ea76b9b478f74\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\benbe\.gradle\caches\modules-2\files-2.1\cz.msebera.android\httpclient\4.3.6\526a9f794eab830eae4f23a62c572878b3f491ab\httpclient-4.3.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="C:\Users\benbe\WatchParty\WatchParty\app\build\intermediates\transforms\dex\debug\folders\1000\10\httpclient-4.3.6_f30f362cfbd9cf36c2dfe2e625dfe35b702187eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\benbe\.android\build-cache\0f36c6e018aa055944d9487031a130321fe09371\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ab25d82bf41c42869ffca8c0f0ddf0de3b92329">
+        <dex dex="C:\Users\benbe\WatchParty\WatchParty\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d16eaeb2012096f9a5fe9bb48e82f8ac1eaec778\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\benbe\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="34b5bf11f900c9e9915d77b0db9ddde760cb3faa">
-        <dex dex="C:\Users\benbe\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-ddb-2.4.2_1ff46bd5a890d95f3999bd21264daa32fa5a3955\classes.dex" />
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\benbe\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_429ba69d552b2a00795635b6722f2e384cf3bc18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\benbe\.android\build-cache\c2aa83f256046a8c8170fb395f623edc5ca6c739\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="C:\Users\benbe\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ca4ff8a4842289177e6ee297aa79ebc2c18578d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\benbe\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.1.1\ab19bfb23f641f189b6dca9a4d393f8dc291103a\picasso-2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab19bfb23f641f189b6dca9a4d393f8dc291103a">
+        <dex dex="C:\Users\benbe\WatchParty\WatchParty\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.1.1_418d1761ebfcc6883510166384cb2ac58212182f\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -426,6 +336,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\benbe\.android\build-cache\1a534b590ed4e4f4b7a85557842e4b7085e364ba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\benbe\WatchParty\WatchParty\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4594c1d901ece98667e456136efcd05eb09e3f3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\benbe\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
         jumboMode="true"
         optimize="true"
@@ -435,30 +354,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\benbe\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-cognito\2.4.2\487ff1ba87c27032fe6f80ce09c9a2a3dc5e3884\aws-android-sdk-cognito-2.4.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="487ff1ba87c27032fe6f80ce09c9a2a3dc5e3884">
-        <dex dex="C:\Users\benbe\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-cognito-2.4.2_631485154191662d51472273cd07907f89e4983e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\benbe\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-core\2.4.2\3c144566ee18c4c725b4e5aef1793bfec4f9d022\aws-android-sdk-core-2.4.2.jar"
+        jar="C:\Users\benbe\.android\build-cache\8ce020a8e1bde8880d1a73495fd14c6ba3133051\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="3c144566ee18c4c725b4e5aef1793bfec4f9d022">
-        <dex dex="C:\Users\benbe\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-core-2.4.2_215093e98a6b4ce770975ec5de456b6b9567a0fa\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\benbe\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-kms\2.4.2\939fbde1af746ca406688dbf5f11e35bdc431243\aws-android-sdk-kms-2.4.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="939fbde1af746ca406688dbf5f11e35bdc431243">
-        <dex dex="C:\Users\benbe\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-kms-2.4.2_10c93ce84f8da691261abd266eb8ebdb96e99a28\classes.dex" />
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\benbe\WatchParty\WatchParty\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1a88e9ac6325b5dc55f09def3e182d120d0bbe7e\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -471,33 +372,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\benbe\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-kms\2.4.2\939fbde1af746ca406688dbf5f11e35bdc431243\aws-android-sdk-kms-2.4.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="939fbde1af746ca406688dbf5f11e35bdc431243">
-        <dex dex="C:\Users\benbe\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-kms-2.4.2_10c93ce84f8da691261abd266eb8ebdb96e99a28\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\benbe\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-cognitoidentityprovider\2.4.2\c29a56e6dcf8e33d2e81af86082be7ba0b200223\aws-android-sdk-cognitoidentityprovider-2.4.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="c29a56e6dcf8e33d2e81af86082be7ba0b200223">
-        <dex dex="C:\Users\benbe\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-cognitoidentityprovider-2.4.2_39f412b9b8f2a09b2ab6a672a0f9f5c02bea0449\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\benbe\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
-        <dex dex="C:\Users\benbe\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_3fea01169ba1b132c535793dff4f8f3294ebc14f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\benbe\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
         jumboMode="false"
         optimize="true"
@@ -507,21 +381,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\benbe\.android\build-cache\3ee9b9b50dfd320b13011c77de282393f8bd4153\output\jars\classes.jar"
+        jar="C:\Users\benbe\WatchParty\WatchParty\AWSMobileHelper\build\intermediates\bundles\default\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
-        <dex dex="C:\Users\benbe\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7f88e4afe40bf6cd8ca880878c022523a11cc5a1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\benbe\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-ddb\2.4.2\34b5bf11f900c9e9915d77b0db9ddde760cb3faa\aws-android-sdk-ddb-2.4.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="34b5bf11f900c9e9915d77b0db9ddde760cb3faa">
-        <dex dex="C:\Users\benbe\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-ddb-2.4.2_1ff46bd5a890d95f3999bd21264daa32fa5a3955\classes.dex" />
+        sha1="4fc9934e7cb9a928adb28ac9745e0dae03ed464b">
+        <dex dex="C:\Users\benbe\WatchParty\WatchParty\app\build\intermediates\transforms\dex\debug\folders\1000\4\classes_4366958f55065e049f31b0aaf3f24cec327227c7\classes.dex" />
     </item>
 
 </items>

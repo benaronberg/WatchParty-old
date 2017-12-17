@@ -1,197 +1,159 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:16:1-104:12
+ADDED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml:3:1-66:12
 	package
-		ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:17:5-30
-		INJECTED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:16:11-69
+		ADDED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml:3:11-69
 	android:versionCode
-		INJECTED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:19:5-67
+ADDED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml:6:5-67
 	android:name
-		ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:19:22-64
+		ADDED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml:6:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:20:5-79
+ADDED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml:7:5-79
 	android:name
-		ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:20:22-76
+		ADDED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml:7:22-76
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:21:5-76
+ADDED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml:8:5-76
 	android:name
-		ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:21:22-73
+		ADDED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml:8:22-73
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:22:5-80
+ADDED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml:9:5-80
 	android:name
-		ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:22:22-77
+		ADDED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml:9:22-77
 application
-ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:24:5-103:19
+ADDED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml:11:5-65:19
 MERGED from [com.facebook.android:facebook-android-sdk:4.20.0] C:\Users\benbe\.android\build-cache\94f3c810ee3f48166339b7efa3cca58378b17b5c\output\AndroidManifest.xml:28:5-48:19
-MERGED from [com.android.support:cardview-v7:25.0.0] C:\Users\benbe\.android\build-cache\4faf8538a66335306a31cdb104bcf6e0254f681c\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:customtabs:25.2.0] C:\Users\benbe\.android\build-cache\ff1c1a7af0d977b8b9aa8a05d5bf457622bc7bad\output\AndroidManifest.xml:22:5-20
-MERGED from [MySampleApp:AWSMobileHelper:unspecified] C:\Users\benbe\Downloads\MySampleApp\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:19:5-52:19
+MERGED from [com.android.support:cardview-v7:25.0.0] C:\Users\benbe\.android\build-cache\d403beb101e59f4020f319b2de3ce653628eb793\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:customtabs:25.3.1] C:\Users\benbe\.android\build-cache\fa2659f35198f66e31903b8048043574165eb33e\output\AndroidManifest.xml:26:5-20
 MERGED from [com.github.moondroid.coverflow:library:1.0] C:\Users\benbe\.android\build-cache\0c5b46557c6188de6ff69620e7a3661fbc017f04\output\AndroidManifest.xml:11:5-14:19
-MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\benbe\.android\build-cache\c4460ee88028eae938889236fc0be8fdcfdb3fd1\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:25.2.0] C:\Users\benbe\.android\build-cache\efad71a62e830a010ee48dabe02ca26e78365663\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\benbe\.android\build-cache\eff8bfe36c2256a58cfd481b4cab00eaeaf13fee\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\benbe\.android\build-cache\3ee9b9b50dfd320b13011c77de282393f8bd4153\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\benbe\.android\build-cache\c87047416ef1c781e160675728655766653e6602\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\benbe\.android\build-cache\87557152d9113baea305da4412ca2c891cee309f\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\benbe\.android\build-cache\56429f08390b762ba2d03f9aaad4d20699324d24\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\benbe\.android\build-cache\e8ec9f69e5f7bcaf83de41ce6b06d9e55f0728cb\output\AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-compat:25.2.0] C:\Users\benbe\.android\build-cache\ed0bfe535a5a0445623a2b4780deb9b97d6d7dfa\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\benbe\.android\build-cache\8ce020a8e1bde8880d1a73495fd14c6ba3133051\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\benbe\.android\build-cache\3b620d64b5775657f522c21abf6fa3a306a21384\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\benbe\.android\build-cache\1a534b590ed4e4f4b7a85557842e4b7085e364ba\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\benbe\.android\build-cache\bc8fd3a90f6d3cf543d8fa463e3d6c15dfafe521\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\benbe\.android\build-cache\80caa4bce91c54688cec31a1cd428a22a6e80bfd\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\benbe\.android\build-cache\7e3a3f035155a420239504b4a06daf1a05c7f7b6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\benbe\.android\build-cache\c776112d47a9f0c5d0806784a5c38e67e39c3028\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\benbe\.android\build-cache\28d2f9dc25943fb76258b7aa931bbd22ac1de7f9\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\benbe\.android\build-cache\417386f3efa0b65f88260ab99cdd28e66c544442\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\benbe\.android\build-cache\8701d0e70c53ade51a9c3b632cb0554a08484d11\output\AndroidManifest.xml:9:5-20
 	android:label
-		ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:27:9-41
-	android:supportsRtl
-		ADDED from [MySampleApp:AWSMobileHelper:unspecified] C:\Users\benbe\Downloads\MySampleApp\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:21:9-35
+		ADDED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml:14:9-41
 	android:allowBackup
-		ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:25:9-35
+		ADDED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml:12:9-35
 	android:icon
-		ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:26:9-43
+		ADDED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml:13:9-43
 	android:theme
-		ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:28:9-40
+		ADDED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml:15:9-40
 	android:name
-		ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:29:9-51
+		ADDED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml:16:9-51
 activity#com.mysampleapp.SplashActivity
-ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:30:9-38:20
+ADDED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml:18:9-25:20
 	android:label
-		ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:32:13-45
+		ADDED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml:19:13-45
 	android:configChanges
-		ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:33:13-83
+		ADDED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml:20:13-83
 	android:name
-		ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:31:13-43
+		ADDED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml:18:19-49
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:34:13-37:29
+ADDED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml:21:13-24:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:35:17-69
+ADDED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml:22:17-69
 	android:name
-		ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:35:25-66
+		ADDED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml:22:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:36:17-77
+ADDED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml:23:17-77
 	android:name
-		ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:36:27-74
+		ADDED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml:23:27-74
 activity#com.mysampleapp.MainActivity
-ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:39:9-45:20
+ADDED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml:27:9-32:20
 	android:label
-		ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:42:13-56
+		ADDED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml:30:13-56
 	android:launchMode
-		ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:41:13-48
+		ADDED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml:29:13-48
 	android:windowSoftInputMode
-		ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:43:13-56
+		ADDED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml:31:13-56
 	android:name
-		ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:40:13-41
-service#com.amazonaws.mobileconnectors.s3.transferutility.TransferService
-ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:55:9-124
-	android:enabled
-		ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:55:99-121
-	android:name
-		ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:55:18-98
-service#com.amazonaws.mobile.downloader.service.DownloadService
-ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:57:9-91
-	android:name
-		ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:57:18-88
-receiver#com.amazonaws.mobile.downloader.service.NetworkStateListener
-ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:59:9-65:20
-	android:enabled
-		ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:61:19-42
-	android:exported
-		ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:60:19-43
-	android:name
-		ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:59:19-94
-intent-filter#android.net.conn.CONNECTIVITY_CHANGE
-ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:62:13-64:29
-action#android.net.conn.CONNECTIVITY_CHANGE
-ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:63:17-78
-	android:name
-		ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:63:25-76
-provider#com.amazonaws.mobile.downloader.query.DownloadQueueProvider
-ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:67:9-72:20
-	android:authorities
-		ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:69:13-76
-	android:enabled
-		ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:70:13-35
-	android:exported
-		ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:71:13-37
-	android:name
-		ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:68:6-80
+		ADDED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml:28:13-41
 provider#android.support.v4.content.FileProvider
-ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:74:9-82:20
+ADDED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml:36:9-44:20
 	android:authorities
-		ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:76:13-74
+		ADDED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml:38:13-74
 	android:grantUriPermissions
-		ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:78:13-47
+		ADDED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml:40:13-47
 	android:exported
-		ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:77:13-37
+		ADDED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml:39:13-37
 	android:name
-		ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:75:13-67
+		ADDED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml:37:13-67
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:79:13-81:66
+ADDED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml:41:13-43:66
 	android:resource
-		ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:81:17-63
+		ADDED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml:43:17-63
 	android:name
-		ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:80:17-67
+		ADDED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml:42:17-67
 activity#com.facebook.CustomTabActivity
-ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:89:9-98:20
+ADDED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml:51:9-60:20
 	android:exported
-		ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:91:13-36
+		ADDED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml:53:13-36
 	android:name
-		ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:90:13-58
+		ADDED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml:52:13-58
 intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
-ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:92:13-97:29
+ADDED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml:54:13-59:29
 action#android.intent.action.VIEW
-ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:93:17-69
+ADDED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml:55:17-69
 	android:name
-		ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:93:25-66
+		ADDED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml:55:25-66
 category#android.intent.category.DEFAULT
-ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:94:17-76
+ADDED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml:56:17-76
 	android:name
-		ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:94:27-73
+		ADDED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml:56:27-73
 category#android.intent.category.BROWSABLE
-ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:95:17-78
+ADDED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml:57:17-78
 	android:name
-		ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:95:27-75
+		ADDED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml:57:27-75
 data
-ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:96:17-75
+ADDED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml:58:17-75
 	android:scheme
-		ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:96:23-72
+		ADDED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml:58:23-72
 meta-data#com.facebook.sdk.ApplicationId
-ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:99:9-108
+ADDED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml:61:9-108
 	android:value
-		ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:99:66-105
+		ADDED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml:61:66-105
 	android:name
-		ADDED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml:99:20-65
+		ADDED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml:61:20-65
 uses-sdk
-INJECTED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.facebook.android:facebook-android-sdk:4.20.0] C:\Users\benbe\.android\build-cache\94f3c810ee3f48166339b7efa3cca58378b17b5c\output\AndroidManifest.xml:24:5-26:41
-MERGED from [com.android.support:cardview-v7:25.0.0] C:\Users\benbe\.android\build-cache\4faf8538a66335306a31cdb104bcf6e0254f681c\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:customtabs:25.2.0] C:\Users\benbe\.android\build-cache\ff1c1a7af0d977b8b9aa8a05d5bf457622bc7bad\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:multidex:1.0.0] C:\Users\benbe\.android\build-cache\c2aa83f256046a8c8170fb395f623edc5ca6c739\output\AndroidManifest.xml:18:5-42
-MERGED from [MySampleApp:AWSMobileHelper:unspecified] C:\Users\benbe\Downloads\MySampleApp\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:15:5-17:41
+MERGED from [com.android.support:cardview-v7:25.0.0] C:\Users\benbe\.android\build-cache\d403beb101e59f4020f319b2de3ce653628eb793\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:customtabs:25.3.1] C:\Users\benbe\.android\build-cache\fa2659f35198f66e31903b8048043574165eb33e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\benbe\.android\build-cache\82618fd25d16610d7a256eecfca4352701cf4a08\output\AndroidManifest.xml:18:5-42
 MERGED from [com.github.moondroid.coverflow:library:1.0] C:\Users\benbe\.android\build-cache\0c5b46557c6188de6ff69620e7a3661fbc017f04\output\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\benbe\.android\build-cache\c4460ee88028eae938889236fc0be8fdcfdb3fd1\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.2.0] C:\Users\benbe\.android\build-cache\efad71a62e830a010ee48dabe02ca26e78365663\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\benbe\.android\build-cache\eff8bfe36c2256a58cfd481b4cab00eaeaf13fee\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\benbe\.android\build-cache\3ee9b9b50dfd320b13011c77de282393f8bd4153\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\benbe\.android\build-cache\c87047416ef1c781e160675728655766653e6602\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\benbe\.android\build-cache\87557152d9113baea305da4412ca2c891cee309f\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\benbe\.android\build-cache\56429f08390b762ba2d03f9aaad4d20699324d24\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\benbe\.android\build-cache\e8ec9f69e5f7bcaf83de41ce6b06d9e55f0728cb\output\AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:support-compat:25.2.0] C:\Users\benbe\.android\build-cache\ed0bfe535a5a0445623a2b4780deb9b97d6d7dfa\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\benbe\.android\build-cache\8ce020a8e1bde8880d1a73495fd14c6ba3133051\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\benbe\.android\build-cache\3b620d64b5775657f522c21abf6fa3a306a21384\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\benbe\.android\build-cache\1a534b590ed4e4f4b7a85557842e4b7085e364ba\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\benbe\.android\build-cache\bc8fd3a90f6d3cf543d8fa463e3d6c15dfafe521\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\benbe\.android\build-cache\80caa4bce91c54688cec31a1cd428a22a6e80bfd\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\benbe\.android\build-cache\7e3a3f035155a420239504b4a06daf1a05c7f7b6\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\benbe\.android\build-cache\c776112d47a9f0c5d0806784a5c38e67e39c3028\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\benbe\.android\build-cache\28d2f9dc25943fb76258b7aa931bbd22ac1de7f9\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\benbe\.android\build-cache\417386f3efa0b65f88260ab99cdd28e66c544442\output\AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\benbe\.android\build-cache\8701d0e70c53ade51a9c3b632cb0554a08484d11\output\AndroidManifest.xml:5:5-7:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.2.0] C:\Users\benbe\.android\build-cache\c4460ee88028eae938889236fc0be8fdcfdb3fd1\output\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\benbe\.android\build-cache\8ce020a8e1bde8880d1a73495fd14c6ba3133051\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\benbe\Downloads\MySampleApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\benbe\WatchParty\WatchParty\app\src\main\AndroidManifest.xml
 activity#com.facebook.FacebookActivity
 ADDED from [com.facebook.android:facebook-android-sdk:4.20.0] C:\Users\benbe\.android\build-cache\94f3c810ee3f48166339b7efa3cca58378b17b5c\output\AndroidManifest.xml:29:9-32:66
 	android:configChanges
@@ -212,53 +174,18 @@ ADDED from [com.facebook.android:facebook-android-sdk:4.20.0] C:\Users\benbe\.an
 		ADDED from [com.facebook.android:facebook-android-sdk:4.20.0] C:\Users\benbe\.android\build-cache\94f3c810ee3f48166339b7efa3cca58378b17b5c\output\AndroidManifest.xml:47:13-37
 	android:name
 		ADDED from [com.facebook.android:facebook-android-sdk:4.20.0] C:\Users\benbe\.android\build-cache\94f3c810ee3f48166339b7efa3cca58378b17b5c\output\AndroidManifest.xml:45:13-70
-activity#com.amazonaws.mobilehelper.auth.signin.ui.SignInActivity
-ADDED from [MySampleApp:AWSMobileHelper:unspecified] C:\Users\benbe\Downloads\MySampleApp\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:22:9-27:20
-	android:screenOrientation
-		ADDED from [MySampleApp:AWSMobileHelper:unspecified] C:\Users\benbe\Downloads\MySampleApp\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:26:13-49
-	android:label
-		ADDED from [MySampleApp:AWSMobileHelper:unspecified] C:\Users\benbe\Downloads\MySampleApp\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:25:13-59
-	android:configChanges
-		ADDED from [MySampleApp:AWSMobileHelper:unspecified] C:\Users\benbe\Downloads\MySampleApp\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:24:13-83
+meta-data#android.support.VERSION
+ADDED from [com.android.support:customtabs:25.3.1] C:\Users\benbe\.android\build-cache\fa2659f35198f66e31903b8048043574165eb33e\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\benbe\.android\build-cache\8ce020a8e1bde8880d1a73495fd14c6ba3133051\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\benbe\.android\build-cache\3b620d64b5775657f522c21abf6fa3a306a21384\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\benbe\.android\build-cache\1a534b590ed4e4f4b7a85557842e4b7085e364ba\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\benbe\.android\build-cache\bc8fd3a90f6d3cf543d8fa463e3d6c15dfafe521\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\benbe\.android\build-cache\80caa4bce91c54688cec31a1cd428a22a6e80bfd\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\benbe\.android\build-cache\7e3a3f035155a420239504b4a06daf1a05c7f7b6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\benbe\.android\build-cache\c776112d47a9f0c5d0806784a5c38e67e39c3028\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\benbe\.android\build-cache\28d2f9dc25943fb76258b7aa931bbd22ac1de7f9\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\benbe\.android\build-cache\417386f3efa0b65f88260ab99cdd28e66c544442\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:customtabs:25.3.1] C:\Users\benbe\.android\build-cache\fa2659f35198f66e31903b8048043574165eb33e\output\AndroidManifest.xml:24:9-31
 	android:name
-		ADDED from [MySampleApp:AWSMobileHelper:unspecified] C:\Users\benbe\Downloads\MySampleApp\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:23:13-84
-activity#com.amazonaws.mobilehelper.auth.signin.ui.userpools.ForgotPasswordActivity
-ADDED from [MySampleApp:AWSMobileHelper:unspecified] C:\Users\benbe\Downloads\MySampleApp\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:28:9-33:20
-	android:screenOrientation
-		ADDED from [MySampleApp:AWSMobileHelper:unspecified] C:\Users\benbe\Downloads\MySampleApp\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:32:13-49
-	android:label
-		ADDED from [MySampleApp:AWSMobileHelper:unspecified] C:\Users\benbe\Downloads\MySampleApp\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:31:13-67
-	android:configChanges
-		ADDED from [MySampleApp:AWSMobileHelper:unspecified] C:\Users\benbe\Downloads\MySampleApp\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:30:13-83
-	android:name
-		ADDED from [MySampleApp:AWSMobileHelper:unspecified] C:\Users\benbe\Downloads\MySampleApp\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:29:13-102
-activity#com.amazonaws.mobilehelper.auth.signin.ui.userpools.SignUpActivity
-ADDED from [MySampleApp:AWSMobileHelper:unspecified] C:\Users\benbe\Downloads\MySampleApp\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:34:9-39:20
-	android:screenOrientation
-		ADDED from [MySampleApp:AWSMobileHelper:unspecified] C:\Users\benbe\Downloads\MySampleApp\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:38:13-49
-	android:label
-		ADDED from [MySampleApp:AWSMobileHelper:unspecified] C:\Users\benbe\Downloads\MySampleApp\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:37:13-59
-	android:configChanges
-		ADDED from [MySampleApp:AWSMobileHelper:unspecified] C:\Users\benbe\Downloads\MySampleApp\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:36:13-83
-	android:name
-		ADDED from [MySampleApp:AWSMobileHelper:unspecified] C:\Users\benbe\Downloads\MySampleApp\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:35:13-94
-activity#com.amazonaws.mobilehelper.auth.signin.ui.userpools.MFAActivity
-ADDED from [MySampleApp:AWSMobileHelper:unspecified] C:\Users\benbe\Downloads\MySampleApp\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:40:9-45:20
-	android:screenOrientation
-		ADDED from [MySampleApp:AWSMobileHelper:unspecified] C:\Users\benbe\Downloads\MySampleApp\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:44:13-49
-	android:label
-		ADDED from [MySampleApp:AWSMobileHelper:unspecified] C:\Users\benbe\Downloads\MySampleApp\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:43:13-55
-	android:configChanges
-		ADDED from [MySampleApp:AWSMobileHelper:unspecified] C:\Users\benbe\Downloads\MySampleApp\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:42:13-83
-	android:name
-		ADDED from [MySampleApp:AWSMobileHelper:unspecified] C:\Users\benbe\Downloads\MySampleApp\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:41:13-91
-activity#com.amazonaws.mobilehelper.auth.signin.ui.userpools.SignUpConfirmActivity
-ADDED from [MySampleApp:AWSMobileHelper:unspecified] C:\Users\benbe\Downloads\MySampleApp\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:46:9-51:20
-	android:screenOrientation
-		ADDED from [MySampleApp:AWSMobileHelper:unspecified] C:\Users\benbe\Downloads\MySampleApp\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:50:13-49
-	android:label
-		ADDED from [MySampleApp:AWSMobileHelper:unspecified] C:\Users\benbe\Downloads\MySampleApp\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:49:13-67
-	android:configChanges
-		ADDED from [MySampleApp:AWSMobileHelper:unspecified] C:\Users\benbe\Downloads\MySampleApp\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:48:13-83
-	android:name
-		ADDED from [MySampleApp:AWSMobileHelper:unspecified] C:\Users\benbe\Downloads\MySampleApp\AWSMobileHelper\build\intermediates\bundles\default\AndroidManifest.xml:47:13-101
+		ADDED from [com.android.support:customtabs:25.3.1] C:\Users\benbe\.android\build-cache\fa2659f35198f66e31903b8048043574165eb33e\output\AndroidManifest.xml:23:9-47

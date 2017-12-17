@@ -1,14 +1,14 @@
 [
     {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\wp_logo.png",
-        "source": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\src\\main\\res\\mipmap-hdpi\\wp_logo.png"
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\splash_icon.png",
+        "source": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\src\\main\\res\\mipmap-hdpi\\splash_icon.png"
     },
     {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
-        "source": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\wp_logo.png",
+        "source": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\src\\main\\res\\mipmap-hdpi\\wp_logo.png"
     },
     {
-        "merged": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\splash_icon.png",
-        "source": "C:\\Users\\benbe\\Downloads\\MySampleApp\\app\\src\\main\\res\\mipmap-hdpi\\splash_icon.png"
+        "merged": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\benbe\\WatchParty\\WatchParty\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     }
 ]

@@ -184,7 +184,6 @@
     <color name="secondary_text_default_material_light">#8a000000</color>
     <color name="secondary_text_disabled_material_dark">#36ffffff</color>
     <color name="secondary_text_disabled_material_light">#24000000</color>
-    <color name="sign_in_separator_color">#DDDDDD</color>
     <color name="splash_background">#FFFFFF</color>
     <color name="splash_text">#F58535</color>
     <color name="switch_thumb_disabled_material_dark">#ff616161</color>
@@ -283,10 +282,6 @@
     <declare-styleable name="PopupWindowBackgroundState"><attr format="boolean" name="state_above_anchor"/></declare-styleable>
     <declare-styleable name="RecycleListView"><attr format="dimension" name="paddingBottomNoButtons"/><attr format="dimension" name="paddingTopNoTitle"/></declare-styleable>
     <declare-styleable name="SearchView"><attr format="reference" name="layout"/><attr format="boolean" name="iconifiedByDefault"/><attr name="android:maxWidth"/><attr format="string" name="queryHint"/><attr format="string" name="defaultQueryHint"/><attr name="android:imeOptions"/><attr name="android:inputType"/><attr format="reference" name="closeIcon"/><attr format="reference" name="goIcon"/><attr format="reference" name="searchIcon"/><attr format="reference" name="searchHintIcon"/><attr format="reference" name="voiceIcon"/><attr format="reference" name="commitIcon"/><attr format="reference" name="suggestionRowLayout"/><attr format="reference" name="queryBackground"/><attr format="reference" name="submitBackground"/><attr name="android:focusable"/></declare-styleable>
-    <declare-styleable name="SignInButton"><attr format="string" name="text"/><attr format="enum" name="button_style">
-            <enum name="large" value="0"/>
-            <enum name="small" value="1"/>
-        </attr></declare-styleable>
     <declare-styleable name="Spinner"><attr name="android:prompt"/><attr name="popupTheme"/><attr name="android:popupBackground"/><attr name="android:dropDownWidth"/><attr name="android:entries"/></declare-styleable>
     <declare-styleable name="SwitchCompat"><attr name="android:thumb"/><attr format="color" name="thumbTint"/><attr name="thumbTintMode">
             
@@ -439,8 +434,8 @@
     <dimen name="com_facebook_share_button_padding_top">12dp</dimen>
     <dimen name="com_facebook_share_button_text_size">16.0sp</dimen>
     <dimen name="com_facebook_tooltip_horizontal_padding">10dp</dimen>
-    <dimen name="cover_height">75dp</dimen>
-    <dimen name="cover_width">50dp</dimen>
+    <dimen name="cover_height">100dp</dimen>
+    <dimen name="cover_width">75dp</dimen>
     <dimen name="demo_mobile_analytics_button_text_size">12sp</dimen>
     <item format="float" name="disabled_alpha_material_dark" type="dimen">0.30</item>
     <item format="float" name="disabled_alpha_material_light" type="dimen">0.26</item>
@@ -466,16 +461,7 @@
     <dimen name="notification_subtext_size">13sp</dimen>
     <dimen name="notification_top_pad">10dp</dimen>
     <dimen name="notification_top_pad_large_text">5dp</dimen>
-    <dimen name="sign_in_button_height">40dp</dimen>
-    <dimen name="sign_in_button_margin">10dp</dimen>
-    <dimen name="sign_in_button_width">240dp</dimen>
-    <dimen name="sign_in_separator_height">2dp</dimen>
     <dimen name="text_size_small_medium">16sp</dimen>
-    <dimen name="user_pools_button_height">45dp</dimen>
-    <dimen name="user_pools_button_text_size">20sp</dimen>
-    <dimen name="user_pools_form_margin">20dp</dimen>
-    <dimen name="user_pools_intra_group_separation">10dp</dimen>
-    <dimen name="user_pools_sign_in_button_margin_top_bottom">10dp</dimen>
     <drawable name="notification_template_icon_bg">#3333B5E5</drawable>
     <drawable name="notification_template_icon_low_bg">#0cffffff</drawable>
     <item name="action_bar_activity_content" type="id"/>
@@ -505,7 +491,6 @@
     <item name="user_files_context_menu_delete" type="id"/>
     <item name="user_files_context_menu_new_folder" type="id"/>
     <item name="user_files_context_menu_upload" type="id"/>
-    <item name="user_pool_sign_in_view_id" type="id"/>
     <integer name="abc_config_activityDefaultDur">220</integer>
     <integer name="abc_config_activityShortDur">150</integer>
     <integer name="cancel_button_image_alpha">127</integer>
@@ -545,7 +530,7 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <string name="app_name">My Sample App</string>
+    <string name="app_name">WatchParty</string>
     <string name="button_text_sign_in">SIGN IN</string>
     <string name="button_text_sign_out">SIGN OUT</string>
     <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> and enter the code shown above.</string>
@@ -602,9 +587,7 @@
     <string name="content_removal_error_text">Content Removal Error</string>
     <string name="content_set_cache_size_text">Set Cache Size</string>
     <string name="content_transfer_failure_text">Transfer Failure</string>
-    <string name="default_facebook_button_text">Continue with Facebook</string>
     <string name="download_queue_provider_authority">com.amazonaws.mobile.downloader-com.amazon.mysampleapp</string>
-    <string name="email_address_text">Email address</string>
     <string name="facebook_app_id">1611548409142974</string>
     <string name="fb_login_protocol_scheme">fb1611548409142974</string>
     <string name="feature_nosql_database_demo_button">Demo NoSQL Database</string>
@@ -626,13 +609,8 @@
     <string name="feature_user_data_storage_powered_by">Powered by Amazon Cognito and Amazon S3</string>
     <string name="feature_user_data_storage_subtitle">Store files for your users in the cloud.\nStore and sync user data in key/value pairs.</string>
     <string name="feature_user_data_storage_title">User Data Storage</string>
-    <string name="forgot_password_body">Set your new password with the verification code that was sent to you.</string>
-    <string name="forgot_password_button_hint">Set password</string>
-    <string name="forgot_password_header">Forgot your password?</string>
-    <string name="forgot_password_input_code_hint">Verification code</string>
     <string name="fragment_demo_instruction_description_header">Sample App Features</string>
     <string name="fragment_demo_instruction_overview_header">Overview</string>
-    <string name="given_name_text">Given name</string>
     <string name="identity_demo_dialog_dismiss_text">DISMISS</string>
     <string name="identity_demo_error_dialog_title">Failed Identity Retrieval</string>
     <string name="identity_demo_error_message_failed_get_identity">Could not retrieve the user identity:\u0020</string>
@@ -640,8 +618,6 @@
     <string name="identity_demo_textview_userid_description">User\'s unique identifier</string>
     <string name="identity_demo_textview_username_description">User\'s name</string>
     <string name="identity_demo_unknown_identity_text">&lt;UNKNOWN IDENTITY></string>
-    <string name="login_failed">Login failed.</string>
-    <string name="login_success">Login succeeded.</string>
     <string name="main_fragment_subtitle_user_files">Store and access files for your users.</string>
     <string name="main_fragment_subtitle_user_identity">Keep track of users</string>
     <string name="main_fragment_title_nosql_database">NoSQL Database</string>
@@ -653,8 +629,6 @@
     <string name="main_nav_menu_default_user_text">\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020</string>
     <string name="main_nav_menu_item_home">Home</string>
     <string name="messenger_send_button_text">Send</string>
-    <string name="mfa_code_sent_message">Code sent.</string>
-    <string name="mfa_header">MFA verification is required to authenticate.</string>
     <string name="nosql_context_menu_entry_delete_item_text">Delete Item</string>
     <string name="nosql_context_menu_entry_update_item_text">Update Item</string>
     <string name="nosql_context_menu_title_for_results_text">Update or Delete Item</string>
@@ -716,46 +690,14 @@
     <string name="nosql_select_table_index_count_text">Indexes</string>
     <string name="nosql_select_table_item_partition_key_text">Partition Key</string>
     <string name="nosql_select_table_item_sort_key_text">Sort Key</string>
-    <string name="password_change_failed">Password change failed.</string>
-    <string name="password_change_success">Password change succeeded.</string>
-    <string name="phone_number_text">Phone number (+15551234567)</string>
     <string name="search_menu_title">Search</string>
     <string name="settings_fragment_dialog_message">Loading…</string>
     <string name="settings_fragment_dialog_title">Please wait …</string>
     <string name="settings_fragment_prompt">Please choose a theme:</string>
-    <string name="sign_in_button_text">Sign In</string>
-    <string name="sign_in_canceled_message_format">"Sign-in with %s canceled."</string>
-    <string name="sign_in_email">Email</string>
-    <string name="sign_in_failure_dialog_title">Sign-In Error</string>
-    <string name="sign_in_failure_message_format">Sign-in with %1$s failed.\n%2$s</string>
-    <string name="sign_in_forgot_password">Forgot Your Password?</string>
-    <string name="sign_in_hide_password">hide</string>
-    <string name="sign_in_new_account">Create New Account</string>
-    <string name="sign_in_or">or sign in with</string>
-    <string name="sign_in_password">Password</string>
-    <string name="sign_in_show_password">show</string>
-    <string name="sign_in_succeeded_message_format">"Sign-in with %s succeeded."</string>
-    <string name="sign_in_username">User Name / Phone # (+1555…)</string>
-    <string name="sign_up_confirm_code">Confirmation code</string>
-    <string name="sign_up_confirm_code_sent">A confirmation code was sent.</string>
-    <string name="sign_up_confirm_enter_code">Please enter the code below to confirm your account.</string>
-    <string name="sign_up_confirm_failed">Sign up confirmation failed.</string>
-    <string name="sign_up_confirm_success">Sign up confirmation succeeded.</string>
-    <string name="sign_up_confirm_text">Confirm</string>
-    <string name="sign_up_confirm_title">Confirm your account</string>
-    <string name="sign_up_failed">Sign up failed.</string>
-    <string name="sign_up_header">Enter your information to sign up.</string>
-    <string name="sign_up_success">Sign up succeeded.</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="title_activity_forgot_password">Forgot Password</string>
     <string name="title_activity_item_detail">Item Detail</string>
     <string name="title_activity_item_list">Item List</string>
     <string name="title_activity_main">@string/app_name</string>
-    <string name="title_activity_mfa">MFA Code</string>
-    <string name="title_activity_sign_in">Sign-in</string>
-    <string name="title_activity_sign_up">Sign Up</string>
-    <string name="title_activity_sign_up_confirm">Confirm Account</string>
-    <string name="title_dialog_sign_up_failed">Sign Up Failed</string>
     <string name="unknown_user">Guest User</string>
     <string name="user_files_browser_context_menu_delete">Delete Remote File</string>
     <string name="user_files_browser_dialog_create_folder_title">New folder</string>
@@ -776,8 +718,6 @@
     <string name="user_files_demo_dialog_signin_message">Private user file storage is only available to users who are signed-in.\n\nWould you like to sign in?</string>
     <string name="user_files_demo_ok_message_upload_file">File upload completed successfully for \'%s\'.</string>
     <string name="user_id">USER IDENTIFIER</string>
-    <string name="username_text">Username</string>
-    <string name="verify_button_text">Verify</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>

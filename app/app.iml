@@ -96,47 +96,29 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="facebook-android-sdk-4.20.0" level="project" />
     <orderEntry type="library" exported="" name="constraint-layout-1.0.2" level="project" />
-    <orderEntry type="library" exported="" name="aws-android-sdk-cognitoidentityprovider-2.4.2" level="project" />
-    <orderEntry type="library" exported="" name="aws-android-sdk-core-2.4.2" level="project" />
+    <orderEntry type="library" exported="" name="picasso-2.1.1" level="project" />
     <orderEntry type="library" exported="" name="bolts-tasks-1.4.0" level="project" />
+    <orderEntry type="library" exported="" name="support-core-ui-25.3.1" level="project" />
+    <orderEntry type="library" exported="" name="customtabs-25.3.1" level="project" />
     <orderEntry type="library" exported="" name="cardview-v7-25.0.0" level="project" />
-    <orderEntry type="library" exported="" name="support-core-ui-25.2.0" level="project" />
+    <orderEntry type="library" exported="" name="httpclient-4.3.6" level="project" />
     <orderEntry type="library" exported="" name="bolts-android-1.4.0" level="project" />
-    <orderEntry type="library" exported="" name="aws-android-sdk-s3-2.4.2" level="project" />
-    <orderEntry type="library" exported="" name="support-core-utils-25.2.0" level="project" />
-    <orderEntry type="library" exported="" name="support-fragment-25.2.0" level="project" />
-    <orderEntry type="library" exported="" name="customtabs-25.2.0" level="project" />
+    <orderEntry type="library" exported="" name="support-core-utils-25.3.1" level="project" />
+    <orderEntry type="library" exported="" name="support-fragment-25.3.1" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="multidex-instrumentation-1.0.1" level="project" />
-    <orderEntry type="library" exported="" name="aws-android-sdk-ddb-mapper-2.4.2" level="project" />
-    <orderEntry type="library" exported="" name="aws-android-sdk-ddb-2.4.2" level="project" />
     <orderEntry type="library" exported="" name="constraint-layout-solver-1.0.2" level="project" />
     <orderEntry type="library" exported="" name="gson-2.7" level="project" />
-    <orderEntry type="library" exported="" name="support-v4-25.2.0" level="project" />
-    <orderEntry type="library" exported="" name="support-compat-25.2.0" level="project" />
     <orderEntry type="library" exported="" name="multidex-1.0.1" level="project" />
-    <orderEntry type="library" exported="" name="aws-android-sdk-kms-2.4.2" level="project" />
-    <orderEntry type="library" exported="" name="support-media-compat-25.2.0" level="project" />
+    <orderEntry type="library" exported="" name="support-v4-25.3.1" level="project" />
+    <orderEntry type="library" exported="" name="support-media-compat-25.3.1" level="project" />
     <orderEntry type="library" exported="" name="bolts-applinks-1.4.0" level="project" />
     <orderEntry type="library" exported="" name="library-1.0" level="project" />
-    <orderEntry type="library" exported="" name="aws-android-sdk-cognito-2.4.2" level="project" />
-    <orderEntry type="library" exported="" name="appcompat-v7-25.2.0" level="project" />
-    <orderEntry type="library" exported="" name="support-annotations-25.2.0" level="project" />
-    <orderEntry type="library" exported="" name="support-vector-drawable-25.2.0" level="project" />
-    <orderEntry type="library" exported="" name="animated-vector-drawable-25.2.0" level="project" />
-    <orderEntry type="module" module-name="AWSMobileHelper" exported="" />
+    <orderEntry type="library" exported="" name="support-annotations-25.3.1" level="project" />
+    <orderEntry type="library" exported="" name="appcompat-v7-25.3.1" level="project" />
+    <orderEntry type="library" exported="" name="support-vector-drawable-25.3.1" level="project" />
+    <orderEntry type="library" exported="" name="android-async-http-1.4.9" level="project" />
+    <orderEntry type="library" exported="" name="support-compat-25.3.1" level="project" />
+    <orderEntry type="library" exported="" name="animated-vector-drawable-25.3.1" level="project" />
     <orderEntry type="library" exported="" name="android-android-25" level="project" />
-    <orderEntry type="library" exported="" name="gson-2.2.4" level="project" />
-    <orderEntry type="library" exported="" name="support-media-compat-24.2.0" level="project" />
-    <orderEntry type="library" exported="" name="support-compat-24.2.0" level="project" />
-    <orderEntry type="library" exported="" name="support-v4-24.2.0" level="project" />
-    <orderEntry type="library" exported="" name="support-core-ui-24.2.0" level="project" />
-    <orderEntry type="library" exported="" name="support-core-utils-24.2.0" level="project" />
-    <orderEntry type="library" exported="" name="appcompat-v7-24.2.0" level="project" />
-    <orderEntry type="library" exported="" name="support-fragment-24.2.0" level="project" />
-    <orderEntry type="library" exported="" name="support-annotations-24.2.0" level="project" />
-    <orderEntry type="library" exported="" name="support-vector-drawable-24.2.0" level="project" />
-    <orderEntry type="library" exported="" name="animated-vector-drawable-24.2.0" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="hamcrest-core-1.3" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="junit-4.12" level="project" />
   </component>
 </module>
